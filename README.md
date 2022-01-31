@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @EvanCWoods
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Web Development and Blockchain Development.
+- 🌱 I’m currently learning JavaScript and Solidity
+- 📫 How to reach me https://evancwoods.github.io/Evan-Woods-Portfolio/
 
-<!---
-EvanCWoods/EvanCWoods is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a 21 year old student in Sydney, Australia. I am currently enrolled in The University of Sydneys Full Stack Flex Bootcamp and am learning solidity in my spare time. I have been coding for over 2 years and have experience in Python, JavaScript, and Solidity.
