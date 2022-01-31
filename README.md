@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EvanCWoods
+- 👋 Hi, I’m Evan Woods
 - 👀 I’m interested in Web Development and Blockchain Development.
 - 🌱 I’m currently learning JavaScript and Solidity
 - 📫 How to reach me 
