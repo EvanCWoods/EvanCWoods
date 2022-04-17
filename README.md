@@ -1,8 +1,8 @@
-Hi 👋 My name is Evan Woods
+# Hi 👋 My name is Evan Woods
 
-Full Stack and Machine Learning Engineer
+## Full Stack and Machine Learning Engineer
 
-I have been programming for 2 and a half years, starting in python, learning data science and Tensorflow, before moving on to web development. I am currently in the process of finishing the "Full Stack Flex" Bootcamp from The University of Sydney and will be graduating in may. I am also awaiting the start of my position at Insight Enterprises Australia, on the Data & Integrations team.
+ I have been programming for 2 and a half years, starting in python, learning data science and Tensorflow, before moving on to web development. I am currently in the process of finishing the "Full Stack Flex" Bootcamp from The University of Sydney and will be graduating in may. I am also awaiting the start of my position at Insight Enterprises Australia, on the Data & Integrations team.
 
 🌍  I'm based in Sydney, Australia
 
