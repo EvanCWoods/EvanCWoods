@@ -1,4 +1,14 @@
-Hi 👋 My name is Evan Woods ===========================  Full Stack and Machine Learning Engineer ----------------------------------------  I have been programming for 2 and a half years, starting in python, learning data science and Tensorflow, before moving on to web development. I am currently in the process of finishing the "Full Stack Flex" Bootcamp from The University of Sydney and will be graduating in may. I am also awaiting the start of my position at Insight Enterprises Australia, on the Data & Integrations team.  * 🌍  I'm based in Sydney, Australia * 🖥️  See my portfolio at [Evan Woods Portfolio](http://evan-woods-portfolio.herokuapp.com/) * ✉️  You can contact me at [evan.woods.dev@gmail.com](mailto:evan.woods.dev@gmail.com) * 🧠  I'm learning React
+Hi 👋 My name is Evan Woods
+
+Full Stack and Machine Learning Engineer
+
+I have been programming for 2 and a half years, starting in python, learning data science and Tensorflow, before moving on to web development. I am currently in the process of finishing the "Full Stack Flex" Bootcamp from The University of Sydney and will be graduating in may. I am also awaiting the start of my position at Insight Enterprises Australia, on the Data & Integrations team.
+
+🌍  I'm based in Sydney, Australia
+
+🖥️  See my portfolio at Evan Woods Portfolio
+
+✉️  You can contact me at evan.woods.dev@gmail.com
 
 <a href="https://www.github.com/EvanCWoods" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/EvanCWoods?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ### Skills
