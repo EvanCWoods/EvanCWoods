@@ -6,7 +6,7 @@
 
 🌍  I'm based in Sydney, Australia
 
-🖥️  See my portfolio [Here](https://evan-woods-updated-portfolio.herokuapp.com/)
+🖥️  See my portfolio [Here](https://evancwoods.github.io/Evan-Woods-Portfolio-webstite/)
 
 ✉️  You can contact me at evan.woods.dev@gmail.com
 
