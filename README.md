@@ -2,7 +2,7 @@
 
 ## Full Stack and Machine Learning Engineer
 
- I have been programming for 3 years, starting in python, learning data science and Tensorflow, before moving on to web development. I recently graduated from the "Full Stack Flex" coding bootcamp from The University of Sydney, and recently joined Insight Enterprises Australia on the Cloud Apps & Integrations team, along with a teaching role for the Full Stack Flex Bootcamp at The University of West Australia.
+ I have been programming for 3 years, starting in python, learning data science and Tensorflow, before moving on to web development. I recently graduated from the "Full Stack Flex" coding bootcamp from The University of Sydney, and joined Insight Enterprises Australia on the Cloud Apps & Integrations team, along with a teaching role for the Full Stack Flex Bootcamp at The University of West Australia.
 
 🌍  I'm based in Sydney, Australia
 
