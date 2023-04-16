@@ -8,7 +8,7 @@
 
 🖥️  See my portfolio [Here](https://evancwoods.github.io/Evan-Woods-Portfolio-webstite/)
 
-✉️  You can contact me at evan.woods.dev@gmail.com
+✉️  You can contact me at evan.woods@blocksoftware.com.au
 
 <a href="https://www.github.com/EvanCWoods" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/EvanCWoods?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
