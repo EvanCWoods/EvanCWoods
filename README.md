@@ -2,7 +2,7 @@
 
 ## Full Stack and Machine Learning Engineer
 
- I have been programming for 4 years, starting in python, learning data science and Tensorflow, before moving on to web development. I graduated from the "Full Stack Flex" coding bootcamp from The University of Sydney, and joined Insight Enterprises Australia on the Cloud Apps & Integrations team, along with a teaching role for the Full Stack Flex Bootcamp at The University of Sydney. After 10 very successful months at Insight, I decided to move on to my own software company, Block Software.
+ I have been programming for 4 years, starting in python, learning data science and Tensorflow, before moving on to web development. I graduated from the "Full Stack Flex" coding bootcamp from The University of Sydney, and joined Insight Enterprises Australia on the Cloud Apps & Integrations team, along with a teaching role for the Full Stack Flex Bootcamp at The University of Sydney. After a very successful first year at Insight, I decided to move on to my own software company, Block Software.
 
 I'm genuinely interested in the transformative power of AI and how it can benefit both individuals and organizations. I envision a future where AI is a natural part of our daily lives, fostering genuine progress. It's important to me that we all have a chance to understand and engage with this technology, ensuring no one misses out on its potential. I'm always eager to collaborate with others who share this curiosity.
 
