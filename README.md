@@ -8,6 +8,8 @@ I'm genuinely interested in the transformative power of AI and how it can benefi
 
 🌍  I'm based in Sydney, Australia
 
+📦  See the NPM packages that I have released [Here](https://www.npmjs.com/~evancwoods)
+
 🖥️  See my portfolio [Here](https://kind-island-09b0cc110.2.azurestaticapps.net/)
 
 ✉️  You can contact me at evan.woods@blocksoftware.com.au
