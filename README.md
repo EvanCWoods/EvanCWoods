@@ -10,8 +10,6 @@ I'm genuinely interested in the transformative power of AI and how it can benefi
 
 📦  See the NPM packages that I have released [Here](https://www.npmjs.com/~evancwoods)
 
-🖥️  See my portfolio [Here](https://kind-island-09b0cc110.2.azurestaticapps.net/)
-
 ✉️  You can contact me at evan.woods@blocksoftware.com.au
 
 <a href="https://www.github.com/EvanCWoods" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/EvanCWoods?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
