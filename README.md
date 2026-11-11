@@ -1,4 +1,4 @@
-I BUILD COOL SHIT
+BUILD FAST AND DON'T BREAK ANYTHING
 
 🌍  I'm based in Sydney, Australia
 
